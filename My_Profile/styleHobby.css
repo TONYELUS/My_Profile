@@ -1,0 +1,54 @@
+body{
+    background-image: url("mainBack.jpg");
+    color: #212832;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.Back{
+    position: absolute;
+    color: #212832;
+    text-decoration: none;
+    right: 20px;
+    top: 25px;
+}
+header>hr{
+    background-color: black;
+    height: 3px;
+}
+.Border{
+    background-color: black;
+    height: 2px;
+}
+li>a{
+    color:#FE5722;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.MusicImg{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+.First{
+    display: flex;
+}
+.Second{
+    display: flex;
+}
+.Third{
+    display: flex;
+}
+sup{
+    font-size: 10px;
+}
+/* :target {
+    background-color: yellow;
+    padding: 3px;
+    border-radius: 3px;
+} */

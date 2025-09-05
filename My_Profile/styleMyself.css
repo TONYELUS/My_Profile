@@ -1,0 +1,33 @@
+body{
+    background-image: url("mainBack.jpg");
+    color: #212832;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+figcaption{
+    margin-top: 5px;
+    margin-left: 200px;
+}
+img{
+    float: right;
+}
+.back{
+    position: absolute;
+    color: #212832;
+    text-decoration: none;
+    right: 20px;
+    top: 25px;
+}
+li{
+    font-size: 36px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+hr{
+    background-color: black;
+    height: 3px;
+}

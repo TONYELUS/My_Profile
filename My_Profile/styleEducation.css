@@ -1,0 +1,20 @@
+body{
+    background-image: url(mainBack.jpg);
+    color: #212832;
+}
+.Header>h1{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.Header>.Back{
+    position: absolute;
+    color: #212832;
+    text-decoration: none;
+    right: 20px;
+    top: 25px;
+}
+.Header>hr{
+    background-color: black;
+    height: 3px;
+}
