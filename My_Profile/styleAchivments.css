@@ -1,13 +1,13 @@
 body{
-    background-image: url(mainBack.jpg);
+    background-image: url("mainBack.jpg");
     color: #212832;
 }
-.Header>h1{
+h1{
     font-size: 50px;
     text-align: center;
     text-decoration: underline;
 }
-.Header>.Back{
+.Back{
     position: absolute;
     color: #212832;
     text-decoration: none;
@@ -17,23 +17,6 @@ body{
 .Header>hr{
     background-color: black;
     height: 3px;
-}
-h2{
-    font-size: 40px;
-    margin-top: 20px;
-    margin-bottom: 3px;
-}
-.Border{
-    background-color: black;
-    height: 2px;
-}
-.imgSchool{
-    float: right;
-    margin-top: 10px;
-}
-.imgUniversity{
-    float: right;
-
 }
 p{
     font-size: 20px;
